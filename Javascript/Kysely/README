@@ -1,0 +1,7 @@
+I have been loving Typescript and Kysely recently. 
+
+I'm amazed out how well it works with nearly all SQL dialects.
+
+The only thing I've had issues with is MySQL's TLS in Kysely. Not a fucking clue and I'm a fan of PlanetScale as well, which requires TLS. I can't figure it out.
+
+

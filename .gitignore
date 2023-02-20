@@ -30,3 +30,5 @@ override.tf.json
 Terraform/AWS/DynamobDB_API/dist/dynamodb.zip
 Terraform/AWS/DynamobDB_API/terraform.tfstate
 Terraform/AWS/DynamobDB_API/terraform.tfstate.backup
+node_modules
+pnpm-lock.yaml
